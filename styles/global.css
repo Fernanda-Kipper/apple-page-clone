@@ -8,20 +8,6 @@
     --spirited-main-color: #DED2B9;
 }
 
-div {
-    display: flex;
-    align-items: center;
-    flex-direction: column;
-    justify-content: center;
-}
-
-div h1 {
-    color: red;
-    font-weight: 700;
-    font-size: 200px;
-    text-align: center;
-}
-
 header {
     background-color: var(--bg-primary);
     color: var(--text-light);
